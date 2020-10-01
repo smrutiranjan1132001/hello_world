@@ -1,4 +1,2 @@
-# Hello_world
-printing_hello_world
-cout<<"Hello world!";
-you can refer cppreferences.com.
+World
+if someone is your!do trust them in hardest of the time
