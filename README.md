@@ -1,4 +1,4 @@
-//CODE TO ASK YOUR NMAE AND SAY HI! TO YOU;
+//CODE TO ASK YOUR NAMAE AND SAY HI! TO YOU;
 #include<iostream>
 using namespace std;
   void main(){
