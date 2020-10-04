@@ -1,5 +1,5 @@
 //MEATHOD TO PRINT HELLO WORLD
-//JUST A STARTERING PROGRMME FOR C++;
+//JUST A STARTING CODE FOR C++;
 
 #include<iostream>
  using nampespace std;
